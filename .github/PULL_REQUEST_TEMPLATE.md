@@ -1,4 +1,4 @@
-<g
+<M
 !--
 *** Please remove the following help text before submitting: ***
 
