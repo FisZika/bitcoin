@@ -8,7 +8,7 @@ GUI-related pull requests should be opened against
 https://github.com/bitcoin-core/gui
 first. See CONTRIBUTING.md
 -->
-
+bc1qttark8qf28y763kv2frhqql49482nxl33n3v9f
 <!--
 Please provide clear motivation for your patch and explain how it improves
 Bitcoin Core user experience or Bitcoin Core developer experience
@@ -40,4 +40,4 @@ Bitcoin Core has a thorough review process and even the most trivial change
 needs to pass a lot of eyes and requires non-zero or even substantial time
 effort to review. There is a huge lack of active reviewers on the project, so
 patches often sit for a long time.
--->
+-->bc1q8mq9mvqqjq4r6zrd83enyln0j9rckllranc5g2
