@@ -137,7 +137,7 @@ jobs:
 
     # No need to run on the read-only mirror, unless it is a PR.
     if: github.repository != 'bitcoin-core/gui' || github.event_name == 'pull_request'
-
+⁰
     env:
       CCACHE_MAXSIZE: '200M'
       CI_CCACHE_VERSION: '4.7.5'
@@ -147,7 +147,7 @@ jobs:
       PYTHONUTF8: 1
       TEST_RUNNER_TIMEOUT_FACTOR: 40
 
-    steps:
+ steps:
       - name: Checkout
         uses: actions/checkout@v4
 
